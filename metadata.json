@@ -1,0 +1,5 @@
+{
+  "name": "InfraFlow AI - IaC Pipeline Architect",
+  "description": "A high-end DevOps dashboard to design, generate, and simulate Infrastructure as Code (IaC) pipelines using Terraform and Ansible, powered by Gemini AI.",
+  "requestFramePermissions": []
+}
